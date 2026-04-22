@@ -1,4 +1,4 @@
-# Anegon Waste-to-Energy System
+<img width="720" height="480" alt="image" src="https://github.com/user-attachments/assets/0b989d6b-fe44-467a-bb21-00a3672eb288" /># Anegon Waste-to-Energy System
 
 Anegon GreenTech Ltd is developing a decentralized waste-to-energy solution that converts organic waste into clean biogas and organic fertilizer to improve environmental conditions and children’s health in underserved communities.
 
@@ -66,9 +66,9 @@ Field Installation:
 
 
 
-## Project Images
+## Project Images:
+Uploading image.png…
 
-(Add uploaded images below or keep in repository files)
 
 
 ## Future Development
