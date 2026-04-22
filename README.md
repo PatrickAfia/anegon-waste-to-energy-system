@@ -2,7 +2,6 @@
 
 Anegon GreenTech Ltd is developing a decentralized waste-to-energy solution that converts organic waste into clean biogas and organic fertilizer to improve environmental conditions and children’s health in underserved communities.
 
----
 
 ##  Problem
 
@@ -14,7 +13,6 @@ Children in many communities are exposed to:
 
 These conditions increase the risk of respiratory illness, infections, and poor health outcomes.
 
----
 
 ##  Solution
 
@@ -26,7 +24,6 @@ Our system converts organic waste (especially poultry waste) into:
 
 This reduces pollution, improves sanitation, and creates healthier living environments.
 
----
 
 ## How It Works
 
@@ -36,7 +33,6 @@ This reduces pollution, improves sanitation, and creates healthier living enviro
 4. Gas is used for cooking or energy
 5. Residual slurry is used as fertilizer
 
----
 
 ## Current Status
 
@@ -52,7 +48,6 @@ This reduces pollution, improves sanitation, and creates healthier living enviro
 - Borehole water system
 - Planned biodigester, gas storage, and power systems
 
----
 
 ##  Impact
 
@@ -61,7 +56,6 @@ This reduces pollution, improves sanitation, and creates healthier living enviro
 - Cleaner environment for children
 - Sustainable energy access
 
----
 
 ##  Project Videos
 
@@ -70,13 +64,12 @@ Demo Center Progress:
 
 Field Installation:  
 
----
+
 
 ## Project Images
 
 (Add uploaded images below or keep in repository files)
 
----
 
 ## Future Development
 
@@ -85,21 +78,18 @@ Field Installation:
 - Cold storage integration for food safety
 - Expansion into commercial methane distribution stations
 
----
 
 ##  Organization
 
 **Anegon GreenTech Ltd**  
 Nigeria  
 
----
 
 ##  Contact
 
 Email: anegonreentech@gmail.com
 
----
 
-## 📌 Note
+## Note
 
 This repository documents a hardware-based climate-health solution designed to reduce environmental risk exposure and improve living conditions for children and vulnerable communities.
