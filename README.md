@@ -53,6 +53,10 @@ This creates a **closed-loop system** that reduces pollution while generating va
 
 
 ## Project Visual Evidence
+### Demo Center Progress & Proven Field Deployment
+
+### Demo Center Progress and Previous Field Installation This video combines our current demonstration center development with footage from a previous poultry farm biogas installation in Port Harcourt. It highlights both our implementation track record and our transition toward a more standardized, scalable waste-to-energy system.
+https://youtu.be/08-sFBxfilk?si=1cY476-y49dYK7N
 
 ### Field Installation – Operational Biogas System
 
